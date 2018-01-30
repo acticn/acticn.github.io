@@ -1,5 +1,5 @@
 # Site settings
-title: Hanuman
+title: Acticn
 description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
@@ -9,7 +9,7 @@ url: "https://samanyougarg.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
+facebook: www.baidu.com
 twitter: twitter
 github:  github
 
